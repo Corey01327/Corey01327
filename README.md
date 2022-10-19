@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Corey01327
 - 👀 I’m interested in running and baskerball
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m learning Deep Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
